@@ -10,4 +10,4 @@ images:
   - name: ghcr.io/dylunabadylu/study-app-api
     newTag: ""
   - name: ghcr.io/dylunabadylu/study-app-web
-    newTag: frontend-v0.1.1
+    newTag: frontend-v0.1.2
