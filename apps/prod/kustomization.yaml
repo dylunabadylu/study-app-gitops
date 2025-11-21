@@ -8,6 +8,6 @@ namespace: study-app
 namePrefix: prod-
 images:
   - name: ghcr.io/dylunabadylu/study-app-api
-    newTag: backend-v0.3.2
+    newTag: backend-v0.3.4
   - name: ghcr.io/dylunabadylu/study-app-web
     newTag: frontend-v0.1.2
